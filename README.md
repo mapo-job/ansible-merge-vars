@@ -45,7 +45,7 @@ So, from the root of your Ansible playbook repository:
    mkdir -p library
    ```
     
-1. Create an empty `merge_vars.py` file in your `library` directory:
+1. Create an empty `merge_vars` file in your `library` directory:
 
     ```
     touch library/merge_vars
